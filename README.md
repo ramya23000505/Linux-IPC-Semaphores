@@ -19,6 +19,7 @@ Write the C Program using Linux Process API - Sempahores
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+```
 /*
  * sem.c  - demonstrates a basic producer-consumer
  *                            implementation.              */
@@ -103,6 +104,7 @@ if(NUM_LOOPS>=10)    {
     }
     return 0;
 }
+```
 ## OUTPUT
 $ ./sem.o 
 
